@@ -1,0 +1,17 @@
+test.php
+evn.php
+deploy
+node_modules/
+log/
+bin/
+Makefile
+.env
+*.bak
+CHANGES.md
+.phpunit.result.cache
+phpunit.xml
+phpunit.xml.dist
+.aider*
+.DS_Store
+export_docs.sh
+exported_all_docs.md

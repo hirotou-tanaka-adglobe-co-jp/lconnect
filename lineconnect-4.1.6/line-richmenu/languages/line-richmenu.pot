@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LINE Connect\n"
+"Report-Msgid-Bugs-To: shipwebdotjp@gmail.com\n"
+"Content-Type: text/plain;\n"
+
+#: src/component/Channel.js:4
+msgid "Channel"
+msgstr ""
+
+#: src/component/CreateRechmenu.js:141
+msgid "Add tap areas"
+msgstr ""
+
+#: src/component/CreateRechmenu.js:262
+#: src/component/RichmenuAlias.js:201
+msgid "Creating..."
+msgstr ""
+
+#: src/component/CreateRechmenu.js:265
+#: src/component/RichmenuAlias.js:204
+msgid "Create"
+msgstr ""
+
+#: src/component/RichMenuUpload.js:11
+msgid "File size must be less than 1MB"
+msgstr ""
+
+#: src/component/RichMenuUpload.js:22
+msgid "Image width must be between 800px and 2500px"
+msgstr ""
+
+#: src/component/RichMenuUpload.js:27
+msgid "Image height must be 250px or higher"
+msgstr ""
+
+#: src/component/RichMenuUpload.js:33
+msgid "Image aspect ratio must be 1.45 or higher"
+msgstr ""
+
+#: src/component/RichMenuUpload.js:42
+msgid "Invalid image file"
+msgstr ""
+
+#: src/component/RichMenuUpload.js:49
+msgid "Invalid file type"
+msgstr ""
+
+#: src/component/RichMenuUpload.js:84
+msgid "Drop the file here"
+msgstr ""
+
+#: src/component/RichMenuUpload.js:85
+msgid "Drag and drop the file here, or click to select file"
+msgstr ""
+
+#: src/component/RichMenuUpload.js:89
+msgid "File type: JPEG or PNG"
+msgstr ""
+
+#: src/component/RichmenuAlias.js:104
+msgid "Please fill all fields"
+msgstr ""
+
+#: src/component/RichmenuAlias.js:109
+msgid "Invalid Alias ID format"
+msgstr ""
+
+#: src/component/RichmenuAlias.js:137
+msgid "Failed to create alias"
+msgstr ""
+
+#: src/component/RichmenuAlias.js:147
+msgid "LINE Richmenu Alias"
+msgstr ""
+
+#: src/component/RichmenuAlias.js:154
+msgid "Create New Alias"
+msgstr ""
+
+#: src/component/RichmenuAlias.js:158
+msgid "Alias ID"
+msgstr ""
+
+#: src/component/RichmenuAlias.js:168
+msgid "(1-32 characters, a-z, A-Z, 0-9, _ and -)"
+msgstr ""
+
+#: src/component/RichmenuAlias.js:173
+#: src/component/RichmenuIndex.js:67
+msgid "Richmenu"
+msgstr ""
+
+#: src/component/RichmenuAlias.js:187
+msgid "(Select a richmenu to link)"
+msgstr ""
+
+#: src/component/RichmenuAlias.js:211
+msgid "Aliases list"
+msgstr ""
+
+#: src/component/RichmenuAlias.js:214
+msgid "No aliases found"
+msgstr ""
+
+#: src/component/RichmenuAlias.js:232
+msgid "Deleting..."
+msgstr ""
+
+#: src/component/RichmenuAlias.js:236
+#: src/component/RichmenuList.js:33
+msgid "Delete"
+msgstr ""
+
+#: src/component/RichmenuAlias.js:244
+msgid "Linked Richmenu"
+msgstr ""
+
+#: src/component/RichmenuAlias.js:252
+msgid "Select Richmenu"
+msgstr ""
+
+#: src/component/RichmenuAlias.js:270
+msgid "Updating..."
+msgstr ""
+
+#: src/component/RichmenuAlias.js:273
+msgid "Update"
+msgstr ""
+
+#: src/component/RichmenuAlias.js:37
+msgid "Please select a richmenu"
+msgstr ""
+
+#: src/component/RichmenuAlias.js:72
+msgid "Are you sure you want to delete this alias?"
+msgstr ""
+
+#: src/component/RichmenuForm.js:132
+msgid "Richmenu list"
+msgstr ""
+
+#: src/component/RichmenuForm.js:140
+msgid "Create new richmenu from blank template"
+msgstr ""
+
+#: src/component/RichmenuForm.js:170
+msgid "Create Richmenu"
+msgstr ""
+
+#: src/component/RichmenuIndex.js:76
+msgid "Richmenu alias"
+msgstr ""
+
+#: src/component/RichmenuIndex.js:86
+msgid "LINE Richmenu"
+msgstr ""
+
+#: src/component/RichmenuList.js:12
+msgid "Are you sure you want to delete this richmenu?"
+msgstr ""
+
+#: src/component/RichmenuList.js:45
+msgid "Use as template"
+msgstr ""
